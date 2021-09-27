@@ -1,4 +1,9 @@
 # puzzle_8
+
+![GitHub last commit](https://img.shields.io/github/last-commit/rrtty0/puzzle_8?style=plastic)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/rrtty0/puzzle_8?style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/rrtty0/puzzle_8?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/rrtty0/puzzle_8?style=plastic)
  
 - [Installation](#anc1)
 - [Usage](#anc2)
