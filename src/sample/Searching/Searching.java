@@ -1,9 +1,10 @@
-package com.gang.Searching;
+package sample.Searching;
 
-import com.gang.Enums.RootOfTreeMode;
-import com.gang.Enums.SearchingMode;
-import com.gang.Nodes.Node;
-import com.gang.Trees.SearchingTree;
+import sample.Enums.RootOfTreeMode;
+import sample.Enums.SearchingMode;
+import sample.Nodes.Node;
+import sample.Trees.SearchingTree;
+
 import java.util.ArrayList;
 import java.util.Hashtable;
 

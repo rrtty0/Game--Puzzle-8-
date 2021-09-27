@@ -1,8 +1,8 @@
-package com.gang.Trees;
+package sample.Trees;
 
-import com.gang.Enums.*;
-import com.gang.Nodes.Node;
-import com.gang.Searching.Searching;
+import sample.Enums.*;
+import sample.Nodes.Node;
+import sample.Searching.Searching;
 import java.util.*;
 
 public final class SearchingTree {

@@ -1,6 +1,6 @@
-package com.gang.Searching;
+package sample.Searching;
 
-import com.gang.Enums.SearchingMode;
+import sample.Enums.SearchingMode;
 
 import java.util.Scanner;
 

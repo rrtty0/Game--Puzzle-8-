@@ -1,7 +1,7 @@
-package com.gang.Nodes;
+package sample.Nodes;
 
-import com.gang.Enums.*;
-import com.gang.Searching.SearchingManager;
+import sample.Enums.*;
+import sample.Searching.SearchingManager;
 
 public final class Node implements Comparable{
 

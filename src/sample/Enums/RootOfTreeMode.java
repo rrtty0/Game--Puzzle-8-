@@ -1,4 +1,4 @@
-package com.gang.Enums;
+package sample.Enums;
 
 public enum RootOfTreeMode {
 

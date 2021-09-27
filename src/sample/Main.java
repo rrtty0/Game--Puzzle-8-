@@ -1,6 +1,6 @@
-package com.gang;
+package sample;
 
-import com.gang.Searching.SearchingManager;
+import sample.Searching.SearchingManager;
 
 public class Main {
 
